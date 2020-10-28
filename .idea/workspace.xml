@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd819507-ab5b-406d-b07e-998aefc943db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hello.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoge.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/action.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namemonth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.php" beforeDir="false" afterPath="$PROJECT_DIR$/hello.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +40,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,6 +55,10 @@
       <updated>1599184266306</updated>
       <workItem from="1599184267525" duration="3951000" />
       <workItem from="1599489054655" duration="1794000" />
+      <workItem from="1601375466596" duration="391000" />
+      <workItem from="1601376977033" duration="368000" />
+      <workItem from="1601461028540" duration="154000" />
+      <workItem from="1601625150188" duration="554000" />
     </task>
     <servers />
   </component>
@@ -62,6 +68,21 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="3">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
